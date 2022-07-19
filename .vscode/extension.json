@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "MisterJ.vue-volar-extention-pack",
+    "bradlc.vscode-tailwindcss",
+    "wayou.vscode-todo-highlight"
+  ]
+}
